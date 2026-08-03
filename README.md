@@ -17,10 +17,10 @@ My production work includes **10+ APIs**, an onboarding workflow that reduced pr
 
 | Project | Engineering focus | Stack |
 | --- | --- | --- |
-| [**Multi-Agent Control Platform**](https://github.com/Melvin-M-Shajan/multi-agent-control-platform) | Local-first PostgreSQL introspection, safe natural-language-to-SQL, supervisor routing, and complete agent traces. Published as [`melcp`](https://www.npmjs.com/package/melcp). | NestJS · LangChain · PostgreSQL · React |
-| [**Cortex**](https://github.com/Melvin-M-Shajan/Cortex) | Asynchronous work memory that converts text, voice, and screenshots into prioritized tasks and semantic memory. | FastAPI · LangGraph · pgvector · Redis · Next.js |
+| [**Multi-Agent Control Platform**](https://github.com/Melvin-M-Shajan/multi-agent-control-platform) · [Demo](https://multi-agent-control-platform-demo.vercel.app/) | Local-first PostgreSQL introspection, safe natural-language-to-SQL, supervisor routing, and complete agent traces. Published as [`melcp`](https://www.npmjs.com/package/melcp). | NestJS · LangChain · PostgreSQL · React |
+| [**Cortex**](https://github.com/Melvin-M-Shajan/Cortex) · [Demo](https://cortex-ai-memory.vercel.app/) | Asynchronous work memory that converts text, voice, and screenshots into prioritized tasks and semantic memory. | FastAPI · LangGraph · pgvector · Redis · Next.js |
 | [**Portfolio**](https://github.com/Melvin-M-Shajan/Portfolio) | Static, accessible AI Engineer portfolio with project case studies, local MDX, and a server-side grounded assistant. | Next.js · TypeScript · Motion · GSAP |
-| [**Logseqo**](https://github.com/Melvin-M-Shajan/Logseq-II) | Real-time block editor backed by a Neo4j knowledge graph, references, backlinks, and collaborative events. | React · NestJS · Neo4j · TipTap · Socket.IO |
+| [**Logseqo**](https://github.com/Melvin-M-Shajan/Logseq-II) · [Demo](https://logseqo-knowledge-graph.vercel.app/) | Real-time block editor backed by a Neo4j knowledge graph, references, backlinks, and collaborative events. | React · NestJS · Neo4j · TipTap · Socket.IO |
 
 ## Core stack
 
