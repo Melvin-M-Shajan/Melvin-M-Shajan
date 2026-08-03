@@ -135,10 +135,6 @@ while problem.exists():
 ## `// SYSTEM TELEMETRY`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melvin-M-Shajan&theme=github_dark" width="100%" alt="GitHub profile activity summary" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melvin-M-Shajan&bg_color=0d1117&color=8b949e&line=21d4fd&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
