@@ -21,7 +21,9 @@
 
 > I build AI systems that can **retrieve the right context, coordinate specialist agents, use tools safely, and explain what happened afterward.**
 
-I am an **AI Engineer and Software Developer at NCompass TechStudio**, working across orchestration, retrieval, knowledge graphs, production APIs, and observability. My favorite problems live where an impressive model demo has to become a dependable software system.
+I am an **AI Engineer**, most recently a Software Developer at NCompass Techstudio (April 2025 to August 2026), where I worked across agent orchestration, retrieval, data pipelines, production APIs, and observability. My favorite problems live where an impressive model demo has to become a dependable software system.
+
+**Open to AI / LLM Engineer roles. Available immediately** in Chennai, Bengaluru, Hyderabad, Coimbatore, or remote. [Resume](https://melvin-shajan-portfolio.vercel.app/melvin-m-shajan-resume.pdf) &nbsp;·&nbsp; [melvinshajan555@gmail.com](mailto:melvinshajan555@gmail.com)
 
 ---
 
@@ -45,7 +47,23 @@ I am an **AI Engineer and Software Developer at NCompass TechStudio**, working a
       <p><a href="https://github.com/Melvin-M-Shajan/multi-agent-control-platform"><strong>Source →</strong></a> &nbsp; <a href="https://multi-agent-control-platform-demo.vercel.app/"><strong>Demo ↗</strong></a> &nbsp; <a href="https://www.npmjs.com/package/melcp"><strong>npm ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <sub>WORK INTELLIGENCE / 02</sub>
+      <sub>CODE INTELLIGENCE / 02</sub>
+      <h3>MCP Codebase Agent</h3>
+      <p>A read-only LangGraph agent and MCP server that investigates the httpx repository and answers with exact file and line citations, grounded by RAG over tree-sitter chunks. 26 passing unit and integration tests.</p>
+      <p><code>Python</code> <code>LangGraph</code> <code>MCP</code> <code>Pinecone</code> <code>Docker</code></p>
+      <p><a href="https://github.com/Melvin-M-Shajan/mcp-codebase-agent"><strong>Source →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>MODEL ADAPTATION / 03</sub>
+      <h3>Invoice Field Extraction</h3>
+      <p>Qwen2.5-1.5B-Instruct fine-tuned with LoRA for invoice fields: F1 0.60 → 0.85 on 100 held-out SROIE receipts, trained with 4-bit QLoRA on a 4 GB GPU, with failure modes documented.</p>
+      <p><code>PyTorch</code> <code>Transformers</code> <code>LoRA</code> <code>QLoRA</code></p>
+      <p><a href="https://github.com/Melvin-M-Shajan/invoice-finetune"><strong>Source →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>WORK INTELLIGENCE / 04</sub>
       <h3>Cortex</h3>
       <p>Turns fragmented text, voice, and screenshots into prioritized actions, searchable semantic memory, and inspectable agent decisions.</p>
       <p><code>FastAPI</code> <code>LangGraph</code> <code>pgvector</code> <code>Redis</code> <code>Next.js</code></p>
@@ -54,18 +72,17 @@ I am an **AI Engineer and Software Developer at NCompass TechStudio**, working a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>CONNECTED MEMORY / 03</sub>
+      <sub>CONNECTED MEMORY / 05</sub>
       <h3>Logseqo</h3>
       <p>A real-time block editor where pages, references, backlinks, and collaborative events become a living Neo4j knowledge graph.</p>
       <p><code>React</code> <code>NestJS</code> <code>Neo4j</code> <code>TipTap</code> <code>Socket.IO</code></p>
       <p><a href="https://github.com/Melvin-M-Shajan/Logseq-II"><strong>Source →</strong></a> &nbsp; <a href="https://logseqo-knowledge-graph.vercel.app/"><strong>Demo ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <sub>PERSONAL INTERFACE / 04</sub>
-      <h3>Portfolio</h3>
-      <p>An accessible, motion-rich engineering portfolio with project case studies, local MDX content, and a grounded server-side assistant.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Motion</code> <code>GSAP</code></p>
-      <p><a href="https://github.com/Melvin-M-Shajan/Portfolio"><strong>Source →</strong></a> &nbsp; <a href="https://melvin-shajan-portfolio.vercel.app"><strong>Visit ↗</strong></a></p>
+      <sub>MORE</sub>
+      <h3>Portfolio and case studies</h3>
+      <p>Architecture write-ups, work highlights from production, and a grounded assistant that answers questions about my work.</p>
+      <p><a href="https://melvin-shajan-portfolio.vercel.app"><strong>Visit ↗</strong></a> &nbsp; <a href="https://github.com/Melvin-M-Shajan?tab=repositories"><strong>All repositories →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -78,18 +95,18 @@ I am an **AI Engineer and Software Developer at NCompass TechStudio**, working a
   <tr>
     <td width="33%" align="center">
       <h2>10+</h2>
-      <strong>production APIs</strong><br />
-      <sub>designed and shipped</sub>
+      <strong>backend APIs</strong><br />
+      <sub>coordinated by one LangGraph agent</sub>
     </td>
     <td width="33%" align="center">
       <h2>−30%</h2>
-      <strong>processing time</strong><br />
-      <sub>through onboarding automation</sub>
+      <strong>onboarding time</strong><br />
+      <sub>with Swark repository maps</sub>
     </td>
     <td width="33%" align="center">
       <h2>96 GB</h2>
-      <strong>pipeline workload</strong><br />
-      <sub>processed with Apache NiFi</sub>
+      <strong>climate data</strong><br />
+      <sub>loaded through an Apache NiFi pipeline</sub>
     </td>
   </tr>
 </table>
@@ -105,6 +122,10 @@ I am an **AI Engineer and Software Developer at NCompass TechStudio**, working a
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=langchain&logoColor=73D8FF" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=73D8FF" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=73D8FF" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Langfuse-111827?style=flat-square&logoColor=73D8FF" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=73D8FF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square&logoColor=73D8FF" alt="Pinecone" />
   <img src="https://img.shields.io/badge/Neo4j-111827?style=flat-square&logo=neo4j&logoColor=73D8FF" alt="Neo4j" />
   <img src="https://img.shields.io/badge/Weaviate-111827?style=flat-square&logo=weaviate&logoColor=73D8FF" alt="Weaviate" />
   <img src="https://img.shields.io/badge/Apache_NiFi-111827?style=flat-square&logo=apache&logoColor=73D8FF" alt="Apache NiFi" />
@@ -118,8 +139,8 @@ I am an **AI Engineer and Software Developer at NCompass TechStudio**, working a
 FOCUS       evaluation-driven retrieval + graph-based memory
 BUILDING    observable agent workflows + safe tool execution
 OPTIMIZING  the path from prototype → reliable production system
-LOCATION    Coimbatore, Tamil Nadu, India
-STATUS      shipping at NCompass TechStudio
+LOCATION    Chennai, India (open to Bengaluru, Hyderabad, Coimbatore, remote)
+STATUS      open to AI / LLM engineer roles, available immediately
 ```
 
 <p align="center">
